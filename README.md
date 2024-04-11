@@ -6,8 +6,7 @@
 3. Navigate to the project directory.
 
 ## Install Dependencies
-numpy==1.22.0
-opencv-python==4.5.5.62
+pip install -r requirements.txt
 ## Usage
 
 1. Place the test video in the `test_video` directory.
