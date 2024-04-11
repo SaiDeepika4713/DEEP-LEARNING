@@ -12,5 +12,5 @@ opencv-python==4.5.5.62
 
 1. Place the test video in the `test_video` directory.
 2. Place the gesture representation (image or short video clip) in the `gesture_representation` directory.
-3. Update the file paths in `main.py` with the actual file names.
+3. Update the file paths in `main.ipny` with the actual file names.
 4. Find the processed video with detected gestures named `output.mp4` in the project directory.
